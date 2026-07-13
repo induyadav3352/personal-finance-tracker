@@ -1,0 +1,4 @@
+venv/
+transactions.csv
+expense_chart.png
+__pycache__/
